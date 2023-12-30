@@ -1,2 +1,3 @@
 # DemoOne
-Just for demo purpose
+This is for practical starting session
+for 
